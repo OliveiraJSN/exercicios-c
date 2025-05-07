@@ -6,7 +6,8 @@ Este repositório contém exercícios resolvidos em linguagem C, organizados por
 
 - [ex_ponteiros.c](ex_ponteiros.c)`Ponteiros`: Exercícios com ponteiros
 - [soma_linha_ou_coluna](soma_linha_ou_coluna.c)`Matriz`: Programas usando Matrizes para somar linha ou coluna
-- [soma_matriz](soma_matriz.c)`Matriz soma`: Código aonde faço uma soma de matriz
+- [soma_matriz](soma_matriz.c)`Matriz`: Código aonde faço uma soma de matriz
+- [pesquisa_matriz](pesquisa_matriz.c)`Pesquisas`: Codigo aonde é feito uma pesquisa de codigo dentre de uma matriz e retorna as posições aonde este codigo se encontra.
 
 > *As pastas serão atualizadas conforme eu for progredindo.*
 
