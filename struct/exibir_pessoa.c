@@ -7,7 +7,7 @@ struct Pessoa { //
     char cidade[50];
 };
 
-void exibirPessoa(struct Pessoa p) { //função
+void exibirPessoa(struct Pessoa p) {
     printf("Nome: %s\n", p.nome);
     printf("Idade: %d\n", p.idade);
     printf("Altura: %.2f\n", p.altura);
