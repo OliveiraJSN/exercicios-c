@@ -65,7 +65,7 @@ int main(){
             printf("Too low!\n");
         } else {
             strcpy(result, "won");
-            printf("🎉 Congratulations, you got it!\n");
+            printf("Congratulations, you got it!\n");
             break;
         }
 
@@ -77,7 +77,7 @@ int main(){
     
     if(attempts == 0){
         strcpy(result, "lost");
-        printf("\n💀 You ran out of attempts! Game over.\n");
+        printf("\nYou ran out of attempts! Game over.\n");
         printf("The secret number was: %d\n", secret);
     }
     
